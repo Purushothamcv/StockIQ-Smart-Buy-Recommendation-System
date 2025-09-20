@@ -1,0 +1,48 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Data files (optional: only if you don't want to push large datasets)
+data/*.csv
+data/*.xlsx
+
+# Model files
+*.pkl
+*.joblib
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Others
+*.sqlite
+*.db
