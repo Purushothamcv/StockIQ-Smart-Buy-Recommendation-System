@@ -27,7 +27,7 @@ A machine learning–powered web application built with Streamlit that predicts 
 
 Clone this repository:
 
-git clone https://github.com/yourusername/stock-recommendation.git
+git clone [https://github.com/Purushothamcv/StockIQ-Smart-Buy-Recommendation-System.git]
 cd stock-recommendation
 
 
